@@ -21,7 +21,7 @@ namespace ExamaModule1Code.Utils
                 try
                 {
                     //Eseguo la lettura del valore da console
-                    Console.Write("Inserisci un valore tra 1 e 10:  ");
+                    Console.Write("Inserisci un valore tra 1 e 10 di prodotti:  ");
                     valoreString = Console.ReadLine();
 
                     //Validazione e parsing del valore
